@@ -1,4 +1,3 @@
-tu
-Ganda
-Bacha
-ha
+<div>
+	Vue is best
+</div>
