@@ -7,14 +7,10 @@
 </div>
 
 <div>
-<<<<<<< HEAD
 	4th merging
 </div>
 
 <div>
 	3rd change again
-=======
-	4th changes again
->>>>>>> dev
 </div>
 
