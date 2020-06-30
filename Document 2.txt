@@ -14,10 +14,4 @@
 	3rd change again
 </div>
 
-<<<<<<< HEAD
 <div class ="class_Master">  </div>
-=======
-<div class ="class_A">  </div>
-
-
->>>>>>> dev
