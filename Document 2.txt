@@ -1,4 +1,5 @@
-tu
-Ganda
-Bacha
-ha
+<h1> Heading on Document 2</h1>
+
+<div>
+	<p>document 2 paragraph</p>
+</div>
