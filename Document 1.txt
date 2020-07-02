@@ -1,9 +1,0 @@
-<div>
-	Doucument 1 has been updated
-</div>dev 
-
-<p> This is the paragraph</p>
-
-/* this is the new update version
-this contain commits and many more details
-I hope you understand */
